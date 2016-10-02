@@ -1,0 +1,4 @@
+clone url: /home/student/04/b04902083/GitChallenge
+將存放在工作站的 repo clone 到自己的資料夾中;
+clone 完畢後 使用 vim 開啟 Readme.txt 有獲得 flag 的進一步方法;
+去吧！我把 flag 通通藏在那裡了，去尋找吧！
